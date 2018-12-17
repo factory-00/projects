@@ -1,5 +1,9 @@
 # Информация
 
+Ниже представлена структура проектов платформы [**METADATA**](https://metadata.foundation/).
+
+## Структура проектов
+
 - [METADATA / FOUNDATION](https://metadata.foundation/)
   - [SYSADMINS / FOUNDATION](https://sysadmins.foundation/)
     - [SYSADMINS / COMMUNITY](https://sysadmins.community/)
